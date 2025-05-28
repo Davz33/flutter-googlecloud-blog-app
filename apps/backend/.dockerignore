@@ -1,0 +1,19 @@
+# Exclude everything except build/web and Dockerfile
+# Node, Dart, and Flutter typical ignores
+.git
+.gitignore
+*.iml
+*.log
+*.md
+*.idea
+*.vscode
+*.DS_Store
+android/
+ios/
+macos/
+windows/
+linux/
+web/
+.dart_tool/
+test/
+Dockerfile 
