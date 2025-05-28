@@ -1,4 +1,4 @@
-# belog
+# flutter-googlecloud-blog-app front end
 
 A new Flutter project.
 
